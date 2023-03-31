@@ -1,6 +1,6 @@
 Name:		texlive-chinese-jfm
 Version:	57758
-Release:	1
+Release:	2
 Summary:	Luatexja-jfm files for Chinese typesetting
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/chinese-jfm
